@@ -1,0 +1,4 @@
+/Users/adityasingh/Desktop/AI/Qtask/Output/code/ClientServiceSample/obj/Debug/net8.0/Generated.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adityasingh/Desktop/AI/Qtask/Output/code/ClientServiceSample/obj/Debug/net8.0/Generated.AssemblyInfoInputs.cache
+/Users/adityasingh/Desktop/AI/Qtask/Output/code/ClientServiceSample/obj/Debug/net8.0/Generated.AssemblyInfo.cs
+/Users/adityasingh/Desktop/AI/Qtask/Output/code/ClientServiceSample/obj/Debug/net8.0/Generated.csproj.CoreCompileInputs.cache
